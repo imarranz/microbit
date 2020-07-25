@@ -1,0 +1,23 @@
+{
+    "name": "lander_y_benat",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "SuperBit": "github:lzty634158/superbit#0a0d6cd2c18804f6b56e944d0c7ff7bd91473ec8",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
